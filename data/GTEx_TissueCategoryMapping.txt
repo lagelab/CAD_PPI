@@ -1,0 +1,86 @@
+DataSource	Tissue	TissueName	TissueCategory
+GTEx_RNA	Adipose_Subcutaneous	Adipose - Subcutaneous	Adipose
+GTEx_RNA	Adipose_Visceral_.Omentum.	Adipose - Visceral	Adipose
+GTEx_RNA	Adrenal_Gland	Adrenal gland	Endocrine
+GTEx_RNA	Artery_Aorta	Artery - Aorta	Cardiovascular
+GTEx_RNA	Artery_Coronary	Artery - Coronary	Cardiovascular
+GTEx_RNA	Artery_Tibial	Artery - Tibial	Cardiovascular
+GTEx_RNA	Bladder	Bladder	Other
+GTEx_RNA	Brain_Amygdala	Brain - Amygdala	CNS
+GTEx_RNA	Brain_Anterior_cingulate_cortex_.BA24.	Brain - Anterior cingulate cortex	CNS
+GTEx_RNA	Brain_Caudate_.basal_ganglia.	Brain - Caudate	CNS
+GTEx_RNA	Brain_Cerebellar_Hemisphere	Brain - Cerebellar hemisphere	CNS
+GTEx_RNA	Brain_Cerebellum	Brain - Cerebellum	CNS
+GTEx_RNA	Brain_Cortex	Brain - Cortex	CNS
+GTEx_RNA	Brain_Frontal_Cortex_.BA9.	Brain - Frontal cortex	CNS
+GTEx_RNA	Brain_Hippocampus	Brain - Hippocampus	CNS
+GTEx_RNA	Brain_Hypothalamus	Brain - Hypothalamus	CNS
+GTEx_RNA	Brain_Nucleus_accumbens_.basal_ganglia.	Brain - Nucleus accumbens	CNS
+GTEx_RNA	Brain_Putamen_.basal_ganglia.	Brain - Putamen	CNS
+GTEx_RNA	Brain_Spinal_cord_.cervical_c.1.	Brain - Spinal cord	CNS
+GTEx_RNA	Brain_Substantia_nigra	Brain - Substantia nigra	CNS
+GTEx_RNA	Breast_Mammary_Tissue	Breast - Mammary tissue	Other
+GTEx_RNA	Cells_EBV.transformed_lymphocytes	Cells - EBV-transformed lymphocytes	Blood/Immune
+GTEx_RNA	Cells_Transformed_fibroblasts	Cells - Transformed fibroblasts	Other
+GTEx_RNA	Cervix_Ectocervix	Cervix - Ectocervix	Other
+GTEx_RNA	Cervix_Endocervix	Cervix - Endocervix	Other
+GTEx_RNA	Colon_Sigmoid	Colon - Sigmoid	Digestive
+GTEx_RNA	Colon_Transverse	Colon - Transverse	Digestive
+GTEx_RNA	Esophagus_Gastroesophageal_Junction	Esophagus - Gastroesophageal junction	Digestive
+GTEx_RNA	Esophagus_Mucosa	Esophagus - Mucosa	Digestive
+GTEx_RNA	Esophagus_Muscularis	Esophagus - Muscularis	Digestive
+GTEx_RNA	Fallopian_Tube	Fallopian tube	Other
+GTEx_RNA	Heart_Atrial_Appendage	Heart - Atrial appendage	Cardiovascular
+GTEx_RNA	Heart_Left_Ventricle	Heart - Left ventricle	Cardiovascular
+GTEx_RNA	Kidney_Cortex	Kidney - Cortex	Other
+GTEx_RNA	Liver	Liver	Liver
+GTEx_RNA	Lung	Lung	Other
+GTEx_RNA	Minor_Salivary_Gland	Minor salivary gland	Other
+GTEx_RNA	Muscle_Skeletal	Muscle - Skeletal	Musculoskeletal/Connective
+GTEx_RNA	Nerve_Tibial	Nerve - Tibial	Other
+GTEx_RNA	Ovary	Ovary	Other
+GTEx_RNA	Pancreas	Pancreas	Other
+GTEx_RNA	Pituitary	Pituitary	Endocrine
+GTEx_RNA	Prostate	Prostate	Other
+GTEx_RNA	Skin_Not_Sun_Exposed_.Suprapubic.	Skin - Not sun exposed	Other
+GTEx_RNA	Skin_Sun_Exposed_.Lower_leg.	Skin - Sun exposed	Other
+GTEx_RNA	Small_Intestine_Terminal_Ileum	Small intestine - Terminal ileum	Digestive
+GTEx_RNA	Spleen	Spleen	Blood/Immune
+GTEx_RNA	Stomach	Stomach	Digestive
+GTEx_RNA	Testis	Testis	Endocrine
+GTEx_RNA	Thyroid	Thyroid	Endocrine
+GTEx_RNA	Uterus	Uterus	Other
+GTEx_RNA	Vagina	Vagina	Other
+GTEx_RNA	Whole_Blood	Whole blood	Blood/Immune
+GTEx_protein	Adrenal Gland	Adrenal gland	Endocrine
+GTEx_protein	Artery Aorta	Artery - Aorta	Cardiovascular
+GTEx_protein	Artery Coronary	Artery - Coronary	Cardiovascular
+GTEx_protein	Artery Tibial	Artery - Tibial	Cardiovascular
+GTEx_protein	Brain Cerebellum	Brain - Cerebellum	CNS
+GTEx_protein	Brain Cortex	Brain - Cortex	CNS
+GTEx_protein	Breast	Breast - Mammary tissue	Other
+GTEx_protein	Colon Sigmoid	Colon - Sigmoid	Digestive
+GTEx_protein	Colon Transverse	Colon - Transverse	Digestive
+GTEx_protein	Esophagus Mucosa	Esophagus - Mucosa	Digestive
+GTEx_protein	Esophagus Muscle	Esophagus - Muscularis	Digestive
+GTEx_protein	GE junction	Esophagus - Gastroesophageal junction	Digestive
+GTEx_protein	Heart Atrial	Heart - Atrial appendage	Cardiovascular
+GTEx_protein	Heart Ventricle	Heart - Left ventricle	Cardiovascular
+GTEx_protein	Liver	Liver	Liver
+GTEx_protein	Lung	Lung	Other
+GTEx_protein	Minor Salivary	Minor salivary gland	Other
+GTEx_protein	Muscle Skeletal	Muscle - Skeletal	Musculoskeletal/Connective
+GTEx_protein	Nerve Tibial	Nerve - Tibial	Other
+GTEx_protein	Ovary	Ovary	Other
+GTEx_protein	Pancreas	Pancreas	Other
+GTEx_protein	Pituitary	Pituitary	Endocrine
+GTEx_protein	Prostate	Prostate	Other
+GTEx_protein	Skin SunExpo	Skin - Sun exposed	Other
+GTEx_protein	Skin Unexpo	Skin - Not sun exposed	Other
+GTEx_protein	Small Intestine	Small intestine - Terminal ileum	Digestive
+GTEx_protein	Spleen	Spleen	Blood/Immune
+GTEx_protein	Stomach	Stomach	Digestive
+GTEx_protein	Testis	Testis	Endocrine
+GTEx_protein	Thyroid	Thyroid	Endocrine
+GTEx_protein	Uterus	Uterus	Other
+GTEx_protein	Vagina	Vagina	Other

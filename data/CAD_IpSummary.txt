@@ -1,0 +1,21 @@
+Dataset name	Bait	Cell type	IP method	Bait IP antibody	Control IP antibody	MS facility	Isobaric labeling	File path
+mB.EC.ARHGEF26	ARHGEF26	EC	Overexpression	Anti-FLAG (Sigma-Aldrich, M8823)	Anti-FLAG (Sigma-Aldrich, M8823)	Broad	iTRAQ	../data/GenoppiOutput/Broad.mB.ARHGEF26vsMock.EC.nonSGS.20NOV2020.tsv
+m9.EC.HDAC9	HDAC9	EC	Overexpression	Anti-FLAG (Sigma-Aldrich, M8823)	Anti-FLAG (Sigma-Aldrich, M8823)	Whitehead	iTRAQ	../data/GenoppiOutput/Whitehead.m9.HDAC9vsMock.EC.3xFlag.20NOV2020.tsv
+m11.EC.FN1	FN1	EC	Endogenous	Anti-FN1 (Santa Cruz, sc-8422 AC)	Normal Mouse IgG (Santa Cruz sc-2343)	Whitehead	iTRAQ	../data/GenoppiOutput/Whitehead.m11.FN1vsMock.EC.Endogenous.20NOV2020.tsv
+m12.EC.EDN1	EDN1	EC	Overexpression	Anti-FLAG (Sigma-Aldrich, A2220)	Anti-FLAG (Sigma-Aldrich, A2220)	Whitehead	iTRAQ	../data/GenoppiOutput/Whitehead.m12.EDN1vsMock.EC.3xFLAG.20NOV2020.tsv
+m13.EC.PHACTR1	PHACTR1	EC	Overexpression	Anti-FLAG (Sigma-Aldrich, A2220)	Anti-FLAG (Sigma-Aldrich, A2220)	Whitehead	iTRAQ	../data/GenoppiOutput/Whitehead.m13.PHACTR1vsMock.EC.3xFLAG.20NOV2020.tsv
+m15.EC.FLT1	FLT1	EC	Endogenous	Anti-FLT1 (Santa Cruz, sc-271789)	Normal Mouse IgG (Santa Cruz sc-2343)	Whitehead	iTRAQ	../data/GenoppiOutput/Whitehead.m15.FLT1vsMock.EC.endogenous.20NOV2020.tsv
+m15.EC.PLPP3	PLPP3	EC	Overexpression	Anti-FLAG (Sigma-Aldrich, A2220)	Anti-FLAG (Sigma-Aldrich, A2220)	Whitehead	iTRAQ	../data/GenoppiOutput/Whitehead.m15.PLPP3vsMock.EC.3xFLAG.20NOV2020.tsv
+m17.EC.BCAS3	BCAS3	EC	Overexpression	Anti-FLAG (Sigma-Aldrich, M8823)	Anti-FLAG (Sigma-Aldrich, M8823)	Whitehead	iTRAQ	../data/GenoppiOutput/Whitehead.m17.BCAS3vsMock.EC.3xFLAG.20NOV2020.tsv
+m17.EC.JCAD	JCAD	EC	Endogenous	Anti-JCAD (Sigma-Aldrich, HPA017956)	Normal Rabbit IgG (R&D Systems, AB-105-C)	Whitehead	iTRAQ	../data/GenoppiOutput/Whitehead.m17.JCADvsMock.EC.endogenous.20NOV2020.tsv
+mB.SMC.ADAMTS7	ADAMTS7	SMC	Endogenous	Anti-ADAMTS7 (Abcam, Ab28557)	Normal Rabbit IgG (R&D Systems, AB-105-C)	Broad	iTRAQ	../data/GenoppiOutput/Broad.mB.ADAMTS7vsMock.SMC.expanded.20NOV2020.tsv
+mB.SMC.EDN1	EDN1	SMC	Overexpression	Anti-FLAG (Sigma-Aldrich, M8823)	Anti-FLAG (Sigma-Aldrich, M8823)	Broad	iTRAQ	../data/GenoppiOutput/Broad.mB.EDN1vsMock.SMC.expanded.20NOV2020.tsv
+m5.SMC.BCAS3	BCAS3	SMC	Overexpression	Anti-FLAG (Sigma-Aldrich, M8823)	Anti-FLAG (Sigma-Aldrich, M8823)	Whitehead	iTRAQ	../data/GenoppiOutput/Whitehead.m5.BCAS3vsMock.SMC.3xFlag.20NOV2020.tsv
+m6.SMC.HDAC9	HDAC9	SMC	Overexpression	Anti-FLAG (Sigma-Aldrich, M8823)	Anti-FLAG (Sigma-Aldrich, M8823)	Whitehead	iTRAQ	../data/GenoppiOutput/Whitehead.m6.HDAC9vsMock.SMC.3xFlag.20NOV2020.tsv
+m9.SMC.ARHGEF26	ARHGEF26	SMC	Overexpression	Anti-FLAG (Sigma-Aldrich, M8823)	Anti-FLAG (Sigma-Aldrich, M8823)	Whitehead	TMT	../data/GenoppiOutput/Whitehead.m9.ARHGEF26vsMock.SMC.3xFlag.20NOV2020.tsv
+m10.SMC.FN1	FN1	SMC	Endogenous	Anti-FN1 (Santa Cruz, sc-8422 AC)	Normal Mouse IgG (Santa Cruz sc-2343)	Whitehead	iTRAQ	../data/GenoppiOutput/Whitehead.m10.FN1vsMock.SMC.endogenous.20NOV2020.tsv
+m10.SMC.JCAD	JCAD	SMC	Overexpression	Anti-FLAG (Sigma-Aldrich, M8823)	Anti-FLAG (Sigma-Aldrich, M8823)	Whitehead	iTRAQ	../data/GenoppiOutput/Whitehead.m10.JCADvsMock.SMC.3xFLAG.20NOV2020.tsv
+m12.SMC.PHACTR1	PHACTR1	SMC	Overexpression	Anti-FLAG (Sigma-Aldrich, A2220)	Anti-FLAG (Sigma-Aldrich, A2220)	Whitehead	iTRAQ	../data/GenoppiOutput/Whitehead.m12.PHACTR1vsMock.SMC.3xFLAG.20NOV2020.tsv
+m13.SMC.PLPP3	PLPP3	SMC	Overexpression	Anti-FLAG (Sigma-Aldrich, A2220)	Anti-FLAG (Sigma-Aldrich, A2220)	Whitehead	iTRAQ	../data/GenoppiOutput/Whitehead.m13.PLPP3vsMock.SMC.3xFLAG.20NOV2020.tsv
+m14.SMC.EDNRA	EDNRA	SMC	Endogenous	Anti-EDNRA (Abcam, ab242440)	Normal Rabbit IgG (R&D Systems, AB-105-C)	Whitehead	iTRAQ	../data/GenoppiOutput/Whitehead.m14.EDNRAvsMock.SMC.endogenous.20NOV2020.tsv
+m15.SMC.ARHGEF26	ARHGEF26	SMC	Overexpression	Anti-FLAG (Sigma-Aldrich, A2220)	Anti-FLAG (Sigma-Aldrich, A2220)	Whitehead	TMT	../data/GenoppiOutput/Whitehead.m15.ARHGEF26vsMock.SMC.3xFLAG.20NOV2020.tsv
