@@ -1,0 +1,513 @@
+ARHGEF26_EC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+ARHGEF26_EC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+ARHGEF26_EC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+ARHGEF26_EC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+ARHGEF26_EC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+ARHGEF26_EC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+ARHGEF26_EC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+ARHGEF26_EC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+ARHGEF26_EC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+BCAS3_EC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+BCAS3_EC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+BCAS3_EC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+BCAS3_EC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+BCAS3_EC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+BCAS3_EC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+BCAS3_EC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+BCAS3_EC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+BCAS3_EC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+EDN1_EC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+EDN1_EC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+EDN1_EC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+EDN1_EC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+EDN1_EC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+EDN1_EC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+EDN1_EC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+EDN1_EC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+EDN1_EC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+FLT1_EC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+FLT1_EC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+FLT1_EC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+FLT1_EC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+FLT1_EC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+FLT1_EC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+FLT1_EC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+FLT1_EC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+FLT1_EC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+FN1_EC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+FN1_EC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+FN1_EC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+FN1_EC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+FN1_EC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+FN1_EC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+FN1_EC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+FN1_EC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+FN1_EC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+HDAC9_EC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+HDAC9_EC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+HDAC9_EC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+HDAC9_EC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+HDAC9_EC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+HDAC9_EC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+HDAC9_EC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+HDAC9_EC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+HDAC9_EC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+JCAD_EC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+JCAD_EC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+JCAD_EC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+JCAD_EC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+JCAD_EC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+JCAD_EC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+JCAD_EC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+JCAD_EC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+JCAD_EC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+PHACTR1_EC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+PHACTR1_EC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+PHACTR1_EC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+PHACTR1_EC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+PHACTR1_EC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+PHACTR1_EC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+PHACTR1_EC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+PHACTR1_EC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+PHACTR1_EC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+PLPP3_EC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+PLPP3_EC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+PLPP3_EC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+PLPP3_EC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+PLPP3_EC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+PLPP3_EC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+PLPP3_EC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+PLPP3_EC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+PLPP3_EC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+COMBINED_EC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+COMBINED_EC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+COMBINED_EC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+COMBINED_EC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+COMBINED_EC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+COMBINED_EC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+COMBINED_EC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+COMBINED_EC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+COMBINED_EC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+ADAMTS7_SMC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+ADAMTS7_SMC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+ADAMTS7_SMC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+ADAMTS7_SMC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+ADAMTS7_SMC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+ADAMTS7_SMC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+ADAMTS7_SMC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+ADAMTS7_SMC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+ADAMTS7_SMC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+ARHGEF26_SMC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+ARHGEF26_SMC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+ARHGEF26_SMC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+ARHGEF26_SMC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+ARHGEF26_SMC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+ARHGEF26_SMC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+ARHGEF26_SMC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+ARHGEF26_SMC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+ARHGEF26_SMC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+BCAS3_SMC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+BCAS3_SMC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+BCAS3_SMC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+BCAS3_SMC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+BCAS3_SMC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+BCAS3_SMC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+BCAS3_SMC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+BCAS3_SMC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+BCAS3_SMC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+EDN1_SMC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+EDN1_SMC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+EDN1_SMC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+EDN1_SMC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+EDN1_SMC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+EDN1_SMC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+EDN1_SMC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+EDN1_SMC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+EDN1_SMC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+EDNRA_SMC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+EDNRA_SMC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+EDNRA_SMC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+EDNRA_SMC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+EDNRA_SMC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+EDNRA_SMC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+EDNRA_SMC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+EDNRA_SMC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+EDNRA_SMC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+FN1_SMC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+FN1_SMC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+FN1_SMC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+FN1_SMC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+FN1_SMC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+FN1_SMC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+FN1_SMC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+FN1_SMC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+FN1_SMC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+HDAC9_SMC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+HDAC9_SMC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+HDAC9_SMC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+HDAC9_SMC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+HDAC9_SMC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+HDAC9_SMC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+HDAC9_SMC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+HDAC9_SMC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+HDAC9_SMC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+JCAD_SMC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+JCAD_SMC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+JCAD_SMC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+JCAD_SMC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+JCAD_SMC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+JCAD_SMC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+JCAD_SMC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+JCAD_SMC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+JCAD_SMC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+PHACTR1_SMC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+PHACTR1_SMC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+PHACTR1_SMC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+PHACTR1_SMC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+PHACTR1_SMC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+PHACTR1_SMC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+PHACTR1_SMC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+PHACTR1_SMC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+PHACTR1_SMC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+PLPP3_SMC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+PLPP3_SMC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+PLPP3_SMC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+PLPP3_SMC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+PLPP3_SMC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+PLPP3_SMC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+PLPP3_SMC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+PLPP3_SMC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+PLPP3_SMC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+COMBINED_SMC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+COMBINED_SMC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+COMBINED_SMC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+COMBINED_SMC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+COMBINED_SMC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+COMBINED_SMC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+COMBINED_SMC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+COMBINED_SMC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+COMBINED_SMC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+ARHGEF26_EC-SMC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+ARHGEF26_EC-SMC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+ARHGEF26_EC-SMC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+ARHGEF26_EC-SMC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+ARHGEF26_EC-SMC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+ARHGEF26_EC-SMC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+ARHGEF26_EC-SMC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+ARHGEF26_EC-SMC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+ARHGEF26_EC-SMC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+BCAS3_EC-SMC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+BCAS3_EC-SMC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+BCAS3_EC-SMC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+BCAS3_EC-SMC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+BCAS3_EC-SMC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+BCAS3_EC-SMC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+BCAS3_EC-SMC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+BCAS3_EC-SMC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+BCAS3_EC-SMC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+EDN1_EC-SMC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+EDN1_EC-SMC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+EDN1_EC-SMC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+EDN1_EC-SMC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+EDN1_EC-SMC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+EDN1_EC-SMC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+EDN1_EC-SMC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+EDN1_EC-SMC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+EDN1_EC-SMC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+FN1_EC-SMC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+FN1_EC-SMC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+FN1_EC-SMC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+FN1_EC-SMC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+FN1_EC-SMC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+FN1_EC-SMC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+FN1_EC-SMC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+FN1_EC-SMC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+FN1_EC-SMC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+HDAC9_EC-SMC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+HDAC9_EC-SMC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+HDAC9_EC-SMC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+HDAC9_EC-SMC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+HDAC9_EC-SMC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+HDAC9_EC-SMC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+HDAC9_EC-SMC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+HDAC9_EC-SMC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+HDAC9_EC-SMC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+JCAD_EC-SMC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+JCAD_EC-SMC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+JCAD_EC-SMC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+JCAD_EC-SMC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+JCAD_EC-SMC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+JCAD_EC-SMC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+JCAD_EC-SMC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+JCAD_EC-SMC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+JCAD_EC-SMC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+PHACTR1_EC-SMC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+PHACTR1_EC-SMC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+PHACTR1_EC-SMC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+PHACTR1_EC-SMC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+PHACTR1_EC-SMC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+PHACTR1_EC-SMC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+PHACTR1_EC-SMC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+PHACTR1_EC-SMC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+PHACTR1_EC-SMC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+PLPP3_EC-SMC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+PLPP3_EC-SMC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+PLPP3_EC-SMC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+PLPP3_EC-SMC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+PLPP3_EC-SMC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+PLPP3_EC-SMC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+PLPP3_EC-SMC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+PLPP3_EC-SMC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+PLPP3_EC-SMC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+COMBINED_EC-SMC	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+COMBINED_EC-SMC	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+COMBINED_EC-SMC	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+COMBINED_EC-SMC	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+COMBINED_EC-SMC	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+COMBINED_EC-SMC	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+COMBINED_EC-SMC	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+COMBINED_EC-SMC	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+COMBINED_EC-SMC	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+ARHGEF26_EC-only	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+ARHGEF26_EC-only	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+ARHGEF26_EC-only	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+ARHGEF26_EC-only	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+ARHGEF26_EC-only	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+ARHGEF26_EC-only	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+ARHGEF26_EC-only	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+ARHGEF26_EC-only	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+ARHGEF26_EC-only	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+BCAS3_EC-only	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+BCAS3_EC-only	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+BCAS3_EC-only	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+BCAS3_EC-only	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+BCAS3_EC-only	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+BCAS3_EC-only	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+BCAS3_EC-only	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+BCAS3_EC-only	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+BCAS3_EC-only	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+EDN1_EC-only	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+EDN1_EC-only	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+EDN1_EC-only	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+EDN1_EC-only	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+EDN1_EC-only	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+EDN1_EC-only	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+EDN1_EC-only	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+EDN1_EC-only	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+EDN1_EC-only	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+FN1_EC-only	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+FN1_EC-only	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+FN1_EC-only	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+FN1_EC-only	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+FN1_EC-only	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+FN1_EC-only	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+FN1_EC-only	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+FN1_EC-only	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+FN1_EC-only	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+HDAC9_EC-only	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+HDAC9_EC-only	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+HDAC9_EC-only	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+HDAC9_EC-only	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+HDAC9_EC-only	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+HDAC9_EC-only	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+HDAC9_EC-only	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+HDAC9_EC-only	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+HDAC9_EC-only	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+JCAD_EC-only	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+JCAD_EC-only	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+JCAD_EC-only	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+JCAD_EC-only	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+JCAD_EC-only	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+JCAD_EC-only	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+JCAD_EC-only	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+JCAD_EC-only	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+JCAD_EC-only	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+PHACTR1_EC-only	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+PHACTR1_EC-only	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+PHACTR1_EC-only	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+PHACTR1_EC-only	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+PHACTR1_EC-only	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+PHACTR1_EC-only	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+PHACTR1_EC-only	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+PHACTR1_EC-only	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+PHACTR1_EC-only	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+PLPP3_EC-only	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+PLPP3_EC-only	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+PLPP3_EC-only	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+PLPP3_EC-only	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+PLPP3_EC-only	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+PLPP3_EC-only	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+PLPP3_EC-only	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+PLPP3_EC-only	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+PLPP3_EC-only	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+COMBINED_EC-only	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+COMBINED_EC-only	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+COMBINED_EC-only	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+COMBINED_EC-only	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+COMBINED_EC-only	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+COMBINED_EC-only	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+COMBINED_EC-only	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+COMBINED_EC-only	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+COMBINED_EC-only	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+ARHGEF26_SMC-only	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+ARHGEF26_SMC-only	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+ARHGEF26_SMC-only	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+ARHGEF26_SMC-only	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+ARHGEF26_SMC-only	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+ARHGEF26_SMC-only	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+ARHGEF26_SMC-only	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+ARHGEF26_SMC-only	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+ARHGEF26_SMC-only	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+BCAS3_SMC-only	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+BCAS3_SMC-only	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+BCAS3_SMC-only	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+BCAS3_SMC-only	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+BCAS3_SMC-only	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+BCAS3_SMC-only	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+BCAS3_SMC-only	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+BCAS3_SMC-only	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+BCAS3_SMC-only	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+EDN1_SMC-only	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+EDN1_SMC-only	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+EDN1_SMC-only	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+EDN1_SMC-only	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+EDN1_SMC-only	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+EDN1_SMC-only	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+EDN1_SMC-only	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+EDN1_SMC-only	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+EDN1_SMC-only	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+FN1_SMC-only	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+FN1_SMC-only	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+FN1_SMC-only	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+FN1_SMC-only	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+FN1_SMC-only	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+FN1_SMC-only	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+FN1_SMC-only	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+FN1_SMC-only	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+FN1_SMC-only	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+HDAC9_SMC-only	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+HDAC9_SMC-only	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+HDAC9_SMC-only	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+HDAC9_SMC-only	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+HDAC9_SMC-only	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+HDAC9_SMC-only	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+HDAC9_SMC-only	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+HDAC9_SMC-only	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+HDAC9_SMC-only	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+JCAD_SMC-only	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+JCAD_SMC-only	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+JCAD_SMC-only	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+JCAD_SMC-only	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+JCAD_SMC-only	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+JCAD_SMC-only	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+JCAD_SMC-only	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+JCAD_SMC-only	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+JCAD_SMC-only	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+PHACTR1_SMC-only	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+PHACTR1_SMC-only	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+PHACTR1_SMC-only	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+PHACTR1_SMC-only	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+PHACTR1_SMC-only	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+PHACTR1_SMC-only	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+PHACTR1_SMC-only	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+PHACTR1_SMC-only	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+PHACTR1_SMC-only	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+PLPP3_SMC-only	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+PLPP3_SMC-only	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+PLPP3_SMC-only	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+PLPP3_SMC-only	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+PLPP3_SMC-only	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+PLPP3_SMC-only	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+PLPP3_SMC-only	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+PLPP3_SMC-only	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+PLPP3_SMC-only	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+COMBINED_SMC-only	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+COMBINED_SMC-only	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+COMBINED_SMC-only	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+COMBINED_SMC-only	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+COMBINED_SMC-only	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+COMBINED_SMC-only	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+COMBINED_SMC-only	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+COMBINED_SMC-only	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+COMBINED_SMC-only	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+ARHGEF26_EC-SMC-intersect	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+ARHGEF26_EC-SMC-intersect	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+ARHGEF26_EC-SMC-intersect	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+ARHGEF26_EC-SMC-intersect	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+ARHGEF26_EC-SMC-intersect	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+ARHGEF26_EC-SMC-intersect	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+ARHGEF26_EC-SMC-intersect	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+ARHGEF26_EC-SMC-intersect	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+ARHGEF26_EC-SMC-intersect	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+BCAS3_EC-SMC-intersect	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+BCAS3_EC-SMC-intersect	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+BCAS3_EC-SMC-intersect	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+BCAS3_EC-SMC-intersect	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+BCAS3_EC-SMC-intersect	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+BCAS3_EC-SMC-intersect	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+BCAS3_EC-SMC-intersect	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+BCAS3_EC-SMC-intersect	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+BCAS3_EC-SMC-intersect	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+EDN1_EC-SMC-intersect	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+EDN1_EC-SMC-intersect	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+EDN1_EC-SMC-intersect	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+EDN1_EC-SMC-intersect	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+EDN1_EC-SMC-intersect	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+EDN1_EC-SMC-intersect	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+EDN1_EC-SMC-intersect	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+EDN1_EC-SMC-intersect	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+EDN1_EC-SMC-intersect	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+FN1_EC-SMC-intersect	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+FN1_EC-SMC-intersect	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+FN1_EC-SMC-intersect	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+FN1_EC-SMC-intersect	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+FN1_EC-SMC-intersect	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+FN1_EC-SMC-intersect	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+FN1_EC-SMC-intersect	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+FN1_EC-SMC-intersect	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+FN1_EC-SMC-intersect	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+HDAC9_EC-SMC-intersect	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+HDAC9_EC-SMC-intersect	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+HDAC9_EC-SMC-intersect	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+HDAC9_EC-SMC-intersect	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+HDAC9_EC-SMC-intersect	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+HDAC9_EC-SMC-intersect	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+HDAC9_EC-SMC-intersect	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+HDAC9_EC-SMC-intersect	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+HDAC9_EC-SMC-intersect	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+JCAD_EC-SMC-intersect	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+JCAD_EC-SMC-intersect	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+JCAD_EC-SMC-intersect	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+JCAD_EC-SMC-intersect	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+JCAD_EC-SMC-intersect	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+JCAD_EC-SMC-intersect	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+JCAD_EC-SMC-intersect	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+JCAD_EC-SMC-intersect	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+JCAD_EC-SMC-intersect	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+PHACTR1_EC-SMC-intersect	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+PHACTR1_EC-SMC-intersect	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+PHACTR1_EC-SMC-intersect	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+PHACTR1_EC-SMC-intersect	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+PHACTR1_EC-SMC-intersect	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+PHACTR1_EC-SMC-intersect	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+PHACTR1_EC-SMC-intersect	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+PHACTR1_EC-SMC-intersect	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+PHACTR1_EC-SMC-intersect	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+PLPP3_EC-SMC-intersect	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+PLPP3_EC-SMC-intersect	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+PLPP3_EC-SMC-intersect	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+PLPP3_EC-SMC-intersect	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+PLPP3_EC-SMC-intersect	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+PLPP3_EC-SMC-intersect	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+PLPP3_EC-SMC-intersect	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+PLPP3_EC-SMC-intersect	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+PLPP3_EC-SMC-intersect	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N
+COMBINED_EC-SMC-intersect	CAD	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/CAD/VanDerHarst.CircRes2018.CAD_META.txt snp-id=oldID pval=P-value N=547261
+COMBINED_EC-SMC-intersect	Aorta-AA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_aa_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+COMBINED_EC-SMC-intersect	Aorta-DA	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Aorta/invnorm_max_da_diam.maf0.001.tsv snp-id=SNP pval=P_BOLT_LMM N=33420
+COMBINED_EC-SMC-intersect	Stroke-AS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.1.AS.TRANS.out snp-id=MarkerName pval=P-value N=521612
+COMBINED_EC-SMC-intersect	Stroke-AIS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.2.AIS.TRANS.out snp-id=MarkerName pval=P-value N=514791
+COMBINED_EC-SMC-intersect	Stroke-LAS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.3.LAS.TRANS.out snp-id=MarkerName pval=P-value N=461138
+COMBINED_EC-SMC-intersect	Stroke-CES	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.4.CES.TRANS.out snp-id=MarkerName pval=P-value N=463456
+COMBINED_EC-SMC-intersect	Stroke-SVS	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Stroke/MEGASTROKE.5.SVS.TRANS.out snp-id=MarkerName pval=P-value N=466160
+COMBINED_EC-SMC-intersect	height	/psych/lagelab/yuhanhsu/Software/MAGMA/GwasData/Height/Meta-analysis_Wood_et_al+UKBiobank_2018.txt ncol=N

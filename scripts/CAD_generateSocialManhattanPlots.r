@@ -7,11 +7,11 @@
 rm(list=ls())
 
 # Code tested with R version 4.2.2
-library(readxl) # 1.4.1
-library(ggplot2) # 3.4.0
-library(dplyr) # 1.1.0
-library(ggrepel) # 0.9.3
-library(ggnewscale) # 0.4.8
+library(readxl) # v1.4.1
+library(ggplot2) # v3.4.0
+library(dplyr) # v1.1.0
+library(ggrepel) # v0.9.3
+library(ggnewscale) # v0.4.8
 
 # ----------------------------------------------------------------------------------------
 # read in genes to be plotted in social Manhattan plots
