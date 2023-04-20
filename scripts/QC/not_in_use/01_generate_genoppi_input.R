@@ -1,6 +1,6 @@
 ## initial analysis
 .libPaths('~/Toolbox/rlib')
-setwd('~/Projects/03_MICOM/')
+setwd('~/Projects/11_CAD_PPI/lagelab/CAD_PPI/')
 library(dplyr)
 library(limma)
 library(ggplot2)
@@ -17,8 +17,8 @@ vcell <- c('EC',
 vimpute <- c('SHIFT',
             'SHIFT')
 #dat_bcas3_pp <- 'data/raw/martin3/3martin_BCAS3_protein-peptides.csv'
-vdat <- c('data/raw/martin3/3martin_BCAS3_proteins.csv',
-         'data/raw/martin3/3martin_KCNK5_proteins.csv')
+vdat <- c('extdata/ms/raw/martin3/3martin_BCAS3_proteins.csv',
+         'extdata/ms/raw/martin3/3martin_KCNK5_proteins.csv')
 
 
 
