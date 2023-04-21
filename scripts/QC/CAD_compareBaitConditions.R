@@ -1,4 +1,4 @@
-setwd('~/Projects/03_MICOM/')
+setwd("~/Projects/11_CAD_PPI/lagelab/CAD_PPI/")
 
 #comparisons:
 # (1) EC (7 IPs) vs. SMC (11 IPs)
@@ -17,14 +17,23 @@ setwd('~/Projects/03_MICOM/')
 ### GET DATA
 
 # get summary data
-summary.data <- read.csv('201120_run056_micom_tier_summary.tsv', sep = '\t') #summary.data <- read.csv('~/Projects/03_MICOM/21JUL20_run019_micom_summary.csv')
+summary.data <- read.csv('extdata/201120_run056_micom_tier_summary.tsv', sep = '\t') #summary.data <- read.csv('~/Projects/03_MICOM/21JUL20_run019_micom_summary.csv')
 summary.data <- summary.data[,c('Data.path', 'Correlation..r.', 'Peptides.found.in.LC.MS.MS..median.', 'Unique.petides.found.in.LC.MS.MS..median.', 
                                 'Proteins.enriched..LogFC...0..FDR...0.1.', 'InWeb.interactors.enriched..logFC...0..FDR...0.1.', 'Roselli.genes.enriched..LogFC...0..FDR...0.1.')]
 colnames(summary.data) <- c('Path','r', 'peptides', 'unique.peptides', 'proteins.enriched','inweb','roselli')
 
+# ensure paths
+summary.data$Path <- gsub("^data","extdata", summary.data$Path)
+summary.data$Path <- gsub("run055","run056", summary.data$Path)
+stopifnot(all(file.exists(summary.data$Path)))
+
+
 # get qc data, i.e. the  IPs we want to investigate
-qc.data <- data.frame(Path=read.csv('run056_filtered_tier1_paths.tsv', sep = '\t')$x)  #qc.data <- read.csv('~/Desktop/29JUL20_MICOM_qced_details_FM.csv')
-qc.data$Path <- gsub('run056', 'run055', qc.data$Path)
+qc.data <- data.frame(Path=read.csv('extdata/run056_filtered_tier1_paths.tsv', sep = '\t')$x)  #qc.data <- read.csv('~/Desktop/29JUL20_MICOM_qced_details_FM.csv')
+qc.data$Path <- gsub("^data","extdata", qc.data$Path)
+qc.data$Path <- gsub("run055","run056", qc.data$Path)
+stopifnot(all(file.exists(qc.data$Path)))
+
 sum(summary.data$Path %in% qc.data$Path) # expect 20..
 summary.data <- summary.data[summary.data$Path %in% qc.data$Path,]
 nrow(summary.data)
@@ -34,9 +43,11 @@ nrow(summary.data)
 #qc.data$lysate.plex <- unlist(lapply(lysate, function(x) x[2]))
 #qc.data$Lysate.Input <- NULL
 
+
+
+
 # get ribosomal proteins
 ribosomal.proteins <- lapply(summary.data$Path, function(p){
-  p = gsub('run055', 'run056', p)
   df <- read.csv(p, sep = '\t')
   df$ribosomal <- grepl('^RPL', df$gene) | grepl('^RPS', df$gene)
   ribosomal.total <- sum(df$ribosomal)
@@ -70,6 +81,11 @@ summary.data$roselli.pvalue.nlog10 <- -log10(as.numeric(unlist(lapply(roselli, f
 summary.data$roselli.significant.pct <- summary.data$roselli.significant / summary.data$roselli.detected
 summary.data$roselli <- NULL
 
+# shared cols?
+colnames(qc.data)[colnames(qc.data) %in% colnames(summary.data)]
+sum(qc.data$Path %in% summary.data$Path)
+qc.data$Path
+summary.data$Path
 
 # combine data 
 qc.data.corr <- merge(qc.data, summary.data, all.x = T)
@@ -83,10 +99,11 @@ tag.flag <- grepl('3xflag',tolower(qc.data.corr$Path))
 tag.endo <- grepl('endoge',tolower(qc.data.corr$Path))
 qc.data.corr$Tag[tag.flag] <- 'Overexpression'
 qc.data.corr$Tag[tag.endo] <- 'Endogenous'
-qc.data.corr$Tag[qc.data.corr$Path == 'data/genoppi_input/run055/Broad.mB.ADAMTS7vsMock.SMC.expanded.20NOV2020.tsv'] <- 'Endogenous'
-qc.data.corr$Tag[qc.data.corr$Path == 'data/genoppi_input/run055/Broad.mB.EDN1vsMock.SMC.expanded.20NOV2020.tsv'] <- 'Overexpression'
-qc.data.corr$Tag[qc.data.corr$Path == 'data/genoppi_input/run055/Broad.mB.ARHGEF26vsMock.EC.nonSGS.20NOV2020.tsv'] <- 'Overexpression'
-
+qc.data.corr$Tag[qc.data.corr$Path == 'extdata/genoppi_input/run056/Broad.mB.ADAMTS7vsMock.SMC.expanded.20NOV2020.tsv'] <- 'Endogenous'
+qc.data.corr$Tag[qc.data.corr$Path == 'extdata/genoppi_input/run056/Broad.mB.EDN1vsMock.SMC.expanded.20NOV2020.tsv'] <- 'Overexpression'
+qc.data.corr$Tag[qc.data.corr$Path == 'extdata/genoppi_input/run056/Broad.mB.ARHGEF26vsMock.EC.nonSGS.20NOV2020.tsv'] <- 'Overexpression'
+#qc.data.corr$Path <- gsub("^data","extdata", qc.data.corr$Path)
+#qc.data.corr$Path <- gsub("run055","run056", qc.data.corr$Path)
 
 # get cell line
 qc.data.corr$Cell.line <- unlist(lapply(strsplit(basename(qc.data.corr$Path), split = '\\.|vs'), function(x) x[5]))
@@ -96,10 +113,12 @@ qc.data.corr$Facility <- unlist(lapply(strsplit(basename(qc.data.corr$Path), spl
 
 
 #qc.data.corr$Tag[qc.data.corr$Tag == ''] <- 'TBD'
-qc.data.corr$Path <- gsub('run055', 'run056', qc.data.corr$Path)
+#qc.data.corr$Path <- gsub('run055', 'run056', qc.data.corr$Path)
 mat <- merge(qc.data.corr, ribosomal.data, by = 'Path')
 
 
+head(qc.data.corr$Path )
+head(ribosomal.data$Path)
 
 # deal ambigious labels
 #mat$Tag[mat$Tag %in% c('endogenous', "none; endogenous protein")] <- 'Endogenous'
@@ -130,7 +149,7 @@ my.color.themes <- list('Cell.line' = 'Dark2', 'Facility' = 'Blues', 'Tag' = 'Gn
 
 for (comparison in my.comparisons){
   
-  pdf(paste0('201128_MICOM_Analysis_Comparison_',comparison,'.pdf'), width = 16, height = 12)
+  pdf(paste0('240421_MICOM_Analysis_Comparison_',comparison,'.pdf'), width = 16, height = 12)
   
   # (1) replicate correlation
   p1 = ggplot(mat, mapping = aes_string(x=comparison, y = 'r', fill = comparison)) +
@@ -247,7 +266,7 @@ for (comparison in my.comparisons){
   #print(p8)
   
   # (9) -log10 InWeb p-value
-  p9 = ggplot(mat, mapping = aes_string(x=comparison, y = 'ribosomal.significant.pct', fill = comparison)) +
+  p9 = ggplot(mat, mapping = aes_string(x=comparison, y = 'inweb.pvalue.nlog10', fill = comparison)) +
     ylab('InWeb overlap enrichment (-log10 p-value)') + 
     ggtitle('H') +
     geom_boxplot() +
@@ -267,5 +286,16 @@ for (comparison in my.comparisons){
   graphics.off()
 }
 
+#
+data.table::fwrite(mat, file = 'supplementary_figure4_6_values.tsv', sep = '\t', na="NA")
+
+
+x = scan(what=character())
+
+nn <- gsub("vsMock","",basename(mat$Path))
+mat$id <- unlist(lapply(strsplit(nn, split = "\\."), function(x) paste0(x[c(2,4,3)], collapse = ".")))
+sum(x %in% mat$id)
+
+mat[match(x, mat$id),]
 
 
