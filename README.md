@@ -1,3 +1,7 @@
+<!-- badges: start -->
+[![DOI](https://zenodo.org/badge/594193721.svg)](https://zenodo.org/badge/latestdoi/594193721)
+<!-- badges: end -->
+
 # CAD_PPI
 Documentation for analysis scripts used in the CAD PPI paper.
 
