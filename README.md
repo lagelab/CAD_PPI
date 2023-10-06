@@ -1,2 +1,5 @@
 # CAD_PPI
-Scripts documentation for the CAD PPI project.
+Documentation for analysis scripts used in the CAD PPI paper.
+
+## Files summary
+See [CAD_PPI_FilesSummary.pdf](CAD_PPI_FilesSummary.pdf) for brief descriptions of the main analysis scripts.
